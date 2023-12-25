@@ -1,0 +1,12 @@
+{
+  "name": "@catamorph/core",
+  "version": "1.0.0",
+  "description": "Type-safe reflection API for Scratch projects",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

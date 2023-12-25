@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2022",
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"module": "NodeNext",
+		"sourceMap": true,
+		"strict": true,
+		"noErrorTruncation": true,
+		"composite": true,
+
+		"outDir": "build"
+	},
+	"include": [
+		"packages/**/src/**/*"
+	]
+}

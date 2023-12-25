@@ -1,0 +1,14 @@
+{
+  "name": "@catamorph/scratch",
+  "version": "1.0.0",
+  "description": "Catamorph block definitions for built-in Scratch blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@catamorph/core": "^1.0.0"
+  }
+}
